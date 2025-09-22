@@ -1,3 +1,3 @@
 <?php
-print "Hello Team.. welcome to the world of OCP.. ...!".   PHP_VERSION . "\n";
+print "Hello Team.. welcome to Red Hat Openshift Container Platform 4.18.. ...!".   PHP_VERSION . "\n";
 ?>
