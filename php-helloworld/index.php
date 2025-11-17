@@ -1,5 +1,3 @@
 <?php
-print "Hi Christopher.. hope you enjoyed learning OpenShift.. ...!".   PHP_VERSION . "\n";
-print "Hi Christopher.. hope you enjoyed learning OpenShift.. ...!".   PHP_VERSION . "\n";
-
+print "Hello team.. welcome to the world of OpenShift.. ...!".   PHP_VERSION . "\n";
 ?>
