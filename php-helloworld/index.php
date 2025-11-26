@@ -1,3 +1,3 @@
 <?php
-print "Thank you all for attending the Training.. New change ...!".   PHP_VERSION . "\n";
+print "Thank you all for attending the Training.. no update ...!".   PHP_VERSION . "\n";
 ?>
