@@ -1,3 +1,3 @@
 <?php
-print "Hello, Team VodafoneIdea ....... " . PHP_VERSION . "\n";
+print "Hello, Team Infosys ....... " . PHP_VERSION . "\n";
 ?>
