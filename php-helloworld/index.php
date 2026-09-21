@@ -1,3 +1,3 @@
 <?php
-print "Hello, Team TCS ..Welcome to Red Hat Training.. ....... " . PHP_VERSION . "\n";
+print "Hello, Team ..Welcome to Red Hat Training.. ....... " . PHP_VERSION . "\n";
 ?>
